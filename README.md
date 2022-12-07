@@ -14,12 +14,13 @@ Modules Used:
 Installing:
 •	To install PyQt5 Module:
 
-  o	Open Command Prompt.
+   o	Open Command Prompt.
   
-  o	Enter following Command:
+   o	Enter following Command:
   
-    •	pip install PyQt5
+         •	   pip install PyQt5
 
 How to Run:
 •	To run this Project, make sure you have installed all the modules mentioned above
+
 •	Run Login-Form and enter id and password, which is currently set to "nk" and "nk", You can change it from changing value of 'idd' and 'passs' on line 1 and line 2 on Login-Form.
